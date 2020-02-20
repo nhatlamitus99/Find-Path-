@@ -1,4 +1,4 @@
-# Find-Path-
+# Find-Path-using A* algorithm
 Find Path using A* algorithm
       1. Vấn đề:
 Trên bảng đồ sẽ xuất hiện thêm một số điểm khác nhau (được gọi là điểm đón). Tìm đường đi xuất phát từ S đến G  sao cho lần lượt đi qua các điểm này và phải sắp xếp thứ tự ưu tiên đi qua chúng sao cho đoạn đường đi là ngắn nhất.
